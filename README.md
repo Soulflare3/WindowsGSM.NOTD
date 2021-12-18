@@ -1,7 +1,7 @@
 # WindowsGSM.NOTD
 
 
-Night of the Dead Dedicated Server
+🧩 WindowsGSM plugin for Night of the Dead Dedicated Server
 
 
 
