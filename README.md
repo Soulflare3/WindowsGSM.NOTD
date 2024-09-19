@@ -1,4 +1,7 @@
 # WindowsGSM.NOTD
+![GitHub Release](https://img.shields.io/github/v/release/Soulflare3/WindowsGSM.NOTD)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Soulflare3/WindowsGSM.NOTD/total)
+
 🧩 WindowsGSM plugin that provides Night of the Dead Dedicated server support!
 
 ## IMPORTANT
